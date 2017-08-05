@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Property_Tree](https://github.com/Boostorg/Property_Tree) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Property_Tree%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Property_Tree%3Abincrafters).
 
 ## For Users: Use this package
 
