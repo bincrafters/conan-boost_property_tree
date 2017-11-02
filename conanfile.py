@@ -1,4 +1,5 @@
-from conans import ConanFile, tools, os
+from conans import ConanFile, tools
+import os
 
 class BoostProperty_TreeConan(ConanFile):
     name = "Boost.Property_Tree"
