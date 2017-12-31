@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostProperty_TreeConan(ConanFile):
     name = "boost_property_tree"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-property_tree"
+    url = "https://github.com/bincrafters/conan-boost_property_tree"
 
     lib_short_names = ["property_tree"]
     is_header_only = True
