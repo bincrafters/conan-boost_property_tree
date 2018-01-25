@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux | OSX |
 |---------|------------|--------|------|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/conan-boost_property_tree%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/conan-boost_property_tree%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_property_tree?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-property_tree)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_property_tree.svg)](https://travis-ci.org/bincrafters/conan-boost_property_tree)|N/A|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_property_tree%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_property_tree%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_property_tree?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-property_tree)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_property_tree.svg)](https://travis-ci.org/bincrafters/conan-boost_property_tree)|N/A|
 
 ## Conan.io Information
 
