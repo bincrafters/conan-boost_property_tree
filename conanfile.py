@@ -15,7 +15,6 @@ class BoostProperty_TreeConan(ConanFile):
     def package_id_additional(self):
         self.info.header_only()
 
-    # TODO: utility
     requires = (
         "boost_any/1.67.0@bincrafters/testing",
         "boost_assert/1.67.0@bincrafters/testing",
