@@ -4,7 +4,7 @@
 from conans import python_requires
 
 
-base = python_requires("boost_base/1.67.0@bincrafters/testing")
+base = python_requires("boost_base/1.68.0@bincrafters/testing")
 
 class BoostProperty_TreeConan(base.BoostBaseConan):
     name = "boost_property_tree"
@@ -28,5 +28,3 @@ class BoostProperty_TreeConan(base.BoostBaseConan):
         "boost_throw_exception",
         "boost_type_traits"
     ]
-
-
